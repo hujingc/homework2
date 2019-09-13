@@ -7,22 +7,11 @@ Twitter: @rich_clark
 */
 
 html {
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
-    outline: 0px;
-    font-size: 100%;
-    vertical-align: baseline;
-    background: transparent;
     color: white;
     background: black;
     font-family: 'Lucida Grande', sans-serif;
     size: 16px;
 
-}
-
-body {
-    line-height: 1;
 }
 
 h1 {
